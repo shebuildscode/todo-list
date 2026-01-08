@@ -46,14 +46,6 @@ Open `index.html` in your browser. **No dependencies required.**
 
 Managing edit mode conflicts when multiple interactions happen simultaneously. Solved by implementing `closeExistingInput()` to ensure only one task can be edited at a time while preserving data integrity.
 
-## 🎯 Future Improvements
-
-- [ ] Drag-and-drop reordering
-- [ ] Due dates and reminders
-- [ ] Categories/tags
-- [ ] Dark mode
-- [ ] Search functionality
-
 ## 📧 Contact
 
 GitHub: [@shebuildscode](https://github.com/shebuildscode)
