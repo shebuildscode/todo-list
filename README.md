@@ -2,6 +2,8 @@
 
 A fully functional todo list with CRUD operations, priority management, and smart filtering. Built with vanilla JavaScript and local storage persistence.
 
+_**[🚀 Check out live demo here](https://shebuildscode.github.io/todo-list/)**_
+
 ![Todo List Screenshot](./todo-list.png)
 
 ## 🎥 See it in action
@@ -34,6 +36,8 @@ cd todo-list
 
 Open `index.html` in your browser. **No dependencies required.**
 
+_Don't want to install? **[🚀 Check out live demo here](https://shebuildscode.github.io/music-player/)**_
+
 ## 💡 What I Learned
 
 - **State management** without frameworks (dual-list system for master data + filtered views)
@@ -51,5 +55,5 @@ Managing edit mode conflicts when multiple interactions happen simultaneously. S
 GitHub: [@shebuildscode](https://github.com/shebuildscode)
 
 E-mail: `shebuildscode@gmail.com`
-<br><br><br>
+<br><br>
 **_Built as part of my web development learning journey. Check out my other projects!_**
