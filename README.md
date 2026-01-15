@@ -36,7 +36,7 @@ cd todo-list
 
 Open `index.html` in your browser. **No dependencies required.**
 
-_Don't want to install? **[🚀 Check out live demo here](https://shebuildscode.github.io/music-player/)**_
+_Don't want to install? **[🚀 Check out live demo here](https://shebuildscode.github.io/todo-list/)**_
 
 ## 💡 What I Learned
 
